@@ -44,7 +44,3 @@ To reproduce the analysis, a user with access to the underlying Bloomberg data w
 **R:** rugarch, rmgarch
 
 **Methods:** log returns, stationarity testing, GJR-GARCH, DCC-GARCH, Delta CoVaR, Newey-West inference, panel regression and robustness testing.
-
-## Note
-
-This repository is shared for portfolio and review purposes. It is not investment advice.
